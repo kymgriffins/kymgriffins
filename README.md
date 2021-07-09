@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m currently working on Open source project
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on Python Projects
+- 🌱 I’m currently learning Django and React
+- Tehc Enthusiast
 - 💬 Ask me about Tehc
+- Crypto
