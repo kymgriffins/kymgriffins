@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on Open source project
-- 🌱 I’m currently learning Django and React
+- Problem Solver
+- FullStack Web Developer (Django + React)
 - Tehc Enthusiast
 - 💬 Ask me about Tehc
 - Crypto
