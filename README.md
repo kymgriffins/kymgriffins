@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-BlockChain Developer 
-Frontend Developer 
+-BlockChain Developer 
+-Frontend Developer 
 
