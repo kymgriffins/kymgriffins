@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there👋, 
 
--BlockChain Developer 
--Frontend Developer 
+### Random guy behind the screen !!!
+
+### This guy is coding at the moment
+
+
+
+### Don't spill my coffee 
 
