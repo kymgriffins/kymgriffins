@@ -1,3 +1,4 @@
+### Don't spill my coffee 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -10,8 +11,6 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kymgriffins&layout=compact)](https://github.com/kymgriffins/github-readme-stats)
 [![Griffins wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kymgriffins)](https://github.com/kymgriffins/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kymgriffins)](https://github.com/kymgriffins/github-readme-stats)
 
-### Don't spill my coffee 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kymgriffins&theme=radical)
