@@ -9,7 +9,7 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kymgriffins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kymgriffins&layout=compact)](https://github.com/kymgriffins/github-readme-stats)
 [![Griffins wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kymgriffins)](https://github.com/kymgriffins/github-readme-stats)
 
 
