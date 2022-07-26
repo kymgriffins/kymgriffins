@@ -10,6 +10,16 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kymgriffins&layout=compact)](https://github.com/kymgriffins/github-readme-stats)
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   16 hrs 13 mins  ███████████████████████▒░   93.58 %
+JSON         54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 [![Griffins' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kymgriffins)](https://github.com/kymgriffins/github-readme-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kymgriffins&theme=radical)
