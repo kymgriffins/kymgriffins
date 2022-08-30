@@ -18,5 +18,3 @@ Python       0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-[![Griffins' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kymgriffins)](https://github.com/kymgriffins/github-readme-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kymgriffins&theme=radical)
